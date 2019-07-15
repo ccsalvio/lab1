@@ -1,0 +1,21 @@
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato",  georgia;}
+body, html {
+  height: 100%;
+  color: #000000;
+  line-height: 1.8;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+}
+</style>
